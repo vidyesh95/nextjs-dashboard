@@ -1,0 +1,1 @@
+import { hash, compare } from 'bcryptjs';  // Changed from 'bcrypt'
